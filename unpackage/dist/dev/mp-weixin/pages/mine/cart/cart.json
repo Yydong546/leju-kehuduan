@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "乐居",
+  "navigationBarBackgroundColor": "#354e44",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "evan-checkbox": "/components/evan-checkbox/evan-checkbox"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="payInfo data-v-fabb1ce8"><view class="tips data-v-fabb1ce8">订单支付成功</view><view class="total data-v-fabb1ce8">{{"支付金额:"+payTotal+"元"}}</view><view data-event-opts="{{[['tap',[['goMine',['$event']]]]]}}" class="mine data-v-fabb1ce8" bindtap="__e">个人中心</view></view>

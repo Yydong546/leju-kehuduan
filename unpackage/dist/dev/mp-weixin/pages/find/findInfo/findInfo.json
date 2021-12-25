@@ -1,0 +1,6 @@
+{
+  "navigationBarBackgroundColor": "#354e44",
+  "usingComponents": {
+    "mp-html": "/components/mp-html/mp-html"
+  }
+}
